@@ -11,7 +11,7 @@
 #    - Data Preparation
 #    - Modelling
 #    - Evaluation
-#    - Deployment
+#    - Deployments
 # Authors: @Aniket Pathare (20050492) ,Chaitanya handore(20040465),Shubham Solse(20042764)
 #*********************************************************************************************************************************************************************
 
